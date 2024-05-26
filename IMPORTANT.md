@@ -2,7 +2,7 @@
 
 The repo is a fork from [zig-gamedev/libs/ztracy](https://github.com/zig-gamedev/zig-gamedev/tree/main/libs/ztracy) library.
 
-Recommended for use is [ztracy](https://github.com/7R35C0/ztracy.git).
+Recommended release for use is from [ztracy](https://github.com/7R35C0/ztracy.git) repo.
 
 However, if you get an error like:
 
@@ -14,6 +14,6 @@ Alternatively you may rebuild the application with the TRACY_TIMER_FALLBACK defi
 ...
 ```
 
-try to use this.
+try to use the release from this repo.
 
 All the best!
