@@ -35,6 +35,8 @@
 #  include <signal.h>
 #endif
 
+#define TRACY_TIMER_FALLBACK
+
 #if defined TRACY_TIMER_FALLBACK || !defined TRACY_HW_TIMER
 #  include <chrono>
 #endif
